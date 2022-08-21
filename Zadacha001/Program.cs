@@ -10,9 +10,14 @@ num1 = double.Parse(input1);
 num2 = double.Parse(input2);
 
 double max;
+double min;
+min = num2;
 max = num1;
 if (max < num2)
 {
     max = num2;
+    min = num1;
 }
+
 Console.WriteLine("max число = " +max);
+Console.WriteLine("min число = " +min);

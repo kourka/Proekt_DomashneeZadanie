@@ -1,0 +1,15 @@
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/bin/Debug/net6.0/Zadacha006(2_lekcia)
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/bin/Debug/net6.0/Zadacha006(2_lekcia).deps.json
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/bin/Debug/net6.0/Zadacha006(2_lekcia).runtimeconfig.json
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/bin/Debug/net6.0/Zadacha006(2_lekcia).dll
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/bin/Debug/net6.0/Zadacha006(2_lekcia).pdb
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/obj/Debug/net6.0/Zadacha006(2_lekcia).csproj.AssemblyReference.cache
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/obj/Debug/net6.0/Zadacha006(2_lekcia).GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/obj/Debug/net6.0/Zadacha006(2_lekcia).AssemblyInfoInputs.cache
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/obj/Debug/net6.0/Zadacha006(2_lekcia).AssemblyInfo.cs
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/obj/Debug/net6.0/Zadacha006(2_lekcia).csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/obj/Debug/net6.0/Zadacha006(2_lekcia).dll
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/obj/Debug/net6.0/refint/Zadacha006(2_lekcia).dll
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/obj/Debug/net6.0/Zadacha006(2_lekcia).pdb
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/obj/Debug/net6.0/Zadacha006(2_lekcia).genruntimeconfig.cache
+/Users/mac/Documents/Proekt_DomashneeZadanie/Zadacha006(2_lekcia)/obj/Debug/net6.0/ref/Zadacha006(2_lekcia).dll

@@ -4,19 +4,23 @@ int start = 1;
 int stop = 65536;
 
 // 2 генерируем числа
-//int value = new Random().Next(start,stop);
-int value = 123;
+int value = new Random().Next(start,stop);
+//int value = 99;
 Console.WriteLine(value);
 
-// 3 извлечение 2й цифры
-int digit_numb1 = value / 100;
-int digit_numb2 = digit_numb1 % 10;
-int digit_numb3 = digit_numb2 % 1000;
+// 3 извлечение 3й цифры   считает справа на лево
+int digit_numb1 = value % 10;
+int digit_numb2 = (value % 100) / 10;
+int digit_numb3 = (value % 1000) / 100;
 
 // Выводим результат
-Console.WriteLine("Третье число " +digit_numb3);
 
-if (value < 99)
+
+if (value <= 99)
 {
-    Console.WriteLine("Третьего числа нет");
+    Console.WriteLine("Третьего числа нет");    
+}
+else 
+{
+     Console.WriteLine("Третье число " +digit_numb3);
 }
